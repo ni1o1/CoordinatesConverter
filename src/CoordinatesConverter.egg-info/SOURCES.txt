@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/CoordinatesConverter/__init__.py
+src/CoordinatesConverter.egg-info/PKG-INFO
+src/CoordinatesConverter.egg-info/SOURCES.txt
+src/CoordinatesConverter.egg-info/dependency_links.txt
+src/CoordinatesConverter.egg-info/top_level.txt

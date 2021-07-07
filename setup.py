@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
  
 setuptools.setup(
     name="CoordinatesConverter",
-    version="0.1.0",
+    version="0.1.2",
     author="Qing Yu",
     author_email="qingyu0815@foxmail.com",
     description="A tool to convert coordinates between WGS84 GCJ02 and BD09",

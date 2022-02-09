@@ -1,5 +1,4 @@
-# CoordinatesConverter
-[![Downloads](https://pepy.tech/badge/CoordinatesConverter)](https://pepy.tech/project/CoordinatesConverter) [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/CoordinatesConverter.svg)](https://anaconda.org/conda-forge/CoordinatesConverter) 
+# CoordinatesConverter [![Downloads](https://pepy.tech/badge/CoordinatesConverter)](https://pepy.tech/project/CoordinatesConverter) [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/CoordinatesConverter.svg)](https://anaconda.org/conda-forge/CoordinatesConverter) 
 WGS84 / BD09 / GCJ02  经纬度坐标互转，基于numpy列运算
 
 ## 安装 
